@@ -1,10 +1,3 @@
-# git-essentials
+# Git essentials / Git for everybody
 
-
-## this is fun
-
-# some new text here
-
-I hope it works.
-
-## Some more.
+Course made by Dave.
