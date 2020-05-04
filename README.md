@@ -1,5 +1,10 @@
 # git-essentials
 
-## how to use repo
 
 ## this is fun
+
+# some new text here
+
+I hope it works.
+
+## Some more.
